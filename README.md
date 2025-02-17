@@ -32,7 +32,7 @@ This is a Java-based **Student Registration System** that allows users to manage
 ## How to Run the Project
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/Student-Registration-System.git
+   git clone https://github.com/helithjay/Student-Activity-Management-System-Using-Classes-.git
    cd Student-Registration-System
    ```
 2. **Compile the Java Files**
